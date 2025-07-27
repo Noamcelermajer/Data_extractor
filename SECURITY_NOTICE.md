@@ -14,7 +14,7 @@ This repository contains scripts and tools for processing sensitive personal dat
 
 ### What's NOT Included
 - ❌ **No CSV files** (user data, member databases)
-- ❌ **No SQL files** (database dumps, user tables)
+- ❌ **No SQL files** (database exports, user tables)
 - ❌ **No TXT files** (email/password combinations, credentials)
 - ❌ **No XLSX files** (structured user data)
 - ❌ **No analysis results** containing sensitive information

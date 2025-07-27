@@ -29,7 +29,7 @@ data_integration_project/
 ## Data Sources Summary
 - **Total Files**: 120 data sources
 - **CSV Files**: 19 (User profiles, member databases, customer records)
-- **SQL Files**: 47 (Database dumps, user tables, business systems)
+- **SQL Files**: 47 (Database exports, user tables, business systems)
 - **TXT Files**: 53 (Email/password lists, user data, credentials)
 - **XLSX Files**: 1 (Structured user data)
 
