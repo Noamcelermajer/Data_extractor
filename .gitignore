@@ -1,0 +1,118 @@
+# Data Files - NEVER COMMIT SENSITIVE DATA
+*.csv
+*.sql
+*.txt
+*.xlsx
+*.xls
+*.accdb
+*.zip
+*.rar
+*.7z
+
+# Analysis Results - Contains sensitive data
+data_analysis_results.json
+data_analysis_summary.md
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration Files with Sensitive Data
+DBconfig.txt
+*.env
+*.config
+
+# Log Files
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Data Client Directory - ENTIRE DIRECTORY
+../data_client/
+../*.csv
+../*.sql
+../*.txt
+../*.xlsx
+
+# Specific Sensitive Files (if they exist in project)
+103FM-Members.csv
+AtrafMembers.csv
+MainUsersAtraf.csv
+israelpost_users.csv
+israelpost.co.il (orders).csv
+Facebook _ © @Osint_IL.csv
+israele.csv
+csv of all voters ©.csv
+fixed.csv
+LockerAmbinCustomers.csv
+ElectionDBIL.txt
+FBDBIL.txt
+israel 12M combo.txt
+twitter.sql
+cig.co.il.sql
+*.sql
+*.txt
+*.csv
+*.xlsx
+
+# Analysis Output Files
+analysis_results/
+output/
+results/
